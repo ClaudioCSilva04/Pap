@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 47b266755cec691419a8faae61e8bc60
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 194094b1bc78af24f832e13b5fd901f7, type: 2}
+  _assetPath: Assets/Adobe/hartiya-3 (1).sbsar
